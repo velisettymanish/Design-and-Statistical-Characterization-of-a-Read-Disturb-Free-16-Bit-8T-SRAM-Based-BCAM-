@@ -1,0 +1,2 @@
+# Design-and-Statistical-Characterization-of-a-Read-Disturb-Free-16-Bit-8T-SRAM-Based-BCAM-
+Design and statistical characterization of a read-disturb-free 16-bit 8T SRAM-based BCAM for in-memory pattern matching using 45-nm CMOS technology. Includes SRAM butterfly curve analysis, static noise margin evaluation, match/mismatch simulations, and 200-sample Monte Carlo analysis for reliable matchline sensing under process variations.
